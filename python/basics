@@ -1,0 +1,4 @@
+# function which can accept any number of arguments
+def function_list(*anything): 
+    print (anything)
+p1 = function_list("10", "20", "30", "ysthfk", "20.987")
